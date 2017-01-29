@@ -2,7 +2,8 @@
 
 What an awesome place this is! 
 
-Just another line. 
+Now editing on update-readme branch. 
 
-Now editing on update-readme branch.
+Updated locally.
+
 
