@@ -4,6 +4,8 @@ What an awesome place this is!
 
 Updates made on master on Github before rebase. 
 
+
+
 ## Repository Purpose 
 
 This will be a change that conflicts 
